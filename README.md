@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, Mundo! Sejam bem-vindos!
 
-<!--
-**JefersonMeira/JefersonMeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, sou Jeferson Meira e sou apaixonado por tecnologia :heart:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Sou graduado em Ciência da Computação
+- :mortar_board: Sou pós-graduado em Gerenciamento de Projetos
+- :mortar_board: Sou pós-graduado em Engenharia de Requisitos
+- :computer: Atualmente trabalho como Analista de Requisitos
+- :books: Estou estudando Java, Angular, Spring, REST 
+- :dart: Meu objetivo é poder me tornar um desenvolvedor FullStack
+
+## Contato
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-meira/)](https://www.linkedin.com/in/jeferson-meira/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sagatmeira@gmail.com)](mailto:sagatmeira@gmail.com)  
+
+## Linguagens, ferramentas e muito mais...
+![Linkedin Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  ![Linkedin Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)	![Linkedin Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)

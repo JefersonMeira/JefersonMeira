@@ -7,7 +7,7 @@ Prazer, sou Jeferson Meira e sou apaixonado por tecnologia :heart:
 - :mortar_board: Sou pós-graduado em Gerenciamento de Projetos e em Engenharia de Requisitos de Software
 - :computer: Atualmente trabalho como Analista de Requisitos
 - :books: Estou estudando o universo do desenvolvimento WEB 
-- :dart: Objetivos até 2023: Me consolidar como desenvolvedor full stack 
+- :dart: Objetivos 2024: Consolidar meus conhecimentos para me tornar um desenvolvedor full stack 
 
   
 ## Contato

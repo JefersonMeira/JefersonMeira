@@ -9,7 +9,7 @@ Prazer, sou Jeferson Meira e sou apaixonado por tecnologia :heart:
 - :books: Estou estudando o universo do desenvolvimento WEB 
 - :dart: Objetivos: Consolidar meus conhecimentos em desenvolvimento de software
 
-## Página profissional
+## Portfólio
 [jefersonmeira.com.br](https://jefersonmeira.com.br)
   
 ## Contato

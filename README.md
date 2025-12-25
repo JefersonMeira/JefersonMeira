@@ -10,7 +10,7 @@ Prazer, sou Jeferson Meira e sou apaixonado por tecnologia :heart:
 - :dart: Objetivos: Consolidar meus conhecimentos em desenvolvimento de software
 
 ## Portfólio
-<a href="https://jefersonmeira.com.br" target="_blank">jefersonmeira.com.br</a>
+[jefersonmeira.com.br](https://jefersonmeira.com.br)
   
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-meira/)](https://www.linkedin.com/in/jeferson-meira/) 

@@ -1,16 +1,16 @@
 # Olá, Mundo! Sejam bem-vindos!
 
-Prazer, sou Jeferson Meira e sou apaixonado por tecnologia :heart:
+Prazer, sou **Jeferson Meira** e sou apaixonado por tecnologia :heart:
 
 
 - :mortar_board: Sou graduado em Ciência da Computação
 - :mortar_board: Sou pós-graduado em Gerenciamento de Projetos e em Engenharia de Requisitos de Software
-- :computer: Atualmente trabalho como Analista de Requisitos
-- :books: Estou estudando o universo do desenvolvimento WEB 
-- :dart: Objetivos: Consolidar meus conhecimentos em desenvolvimento de software
+- :man_office_worker: Atualmente trabalho como Analista de Requisitos
+- :computer: Estou estudando o universo do desenvolvimento WEB 
+- :dart: Objetivo: consolidar meus conhecimentos em desenvolvimento de software
 
 ## Portfólio
-[jefersonmeira.com.br](https://jefersonmeira.com.br)
+:link: [jefersonmeira.com.br](https://jefersonmeira.com.br)
   
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-meira/)](https://www.linkedin.com/in/jeferson-meira/) 
